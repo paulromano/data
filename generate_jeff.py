@@ -289,7 +289,7 @@ def main():
     }
 
     # ==============================================================================
-    # DOWNLOAD FILES FROM NNDC SITE
+    # DOWNLOAD FILES
 
     if args.download:
         for particle in args.particles:
